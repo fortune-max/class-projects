@@ -12,7 +12,7 @@
 # M4 - Design Systems for Interactive Applications
 * Final Project: [Demo](https://onyx-design-system.vercel.app/), [SRC](https://github.com/fortune-max/onyx-design-system)
 
-# M5 - The Vue Ecosystem, NuxtJS
+# M5 - The Vue Ecosystem, Nuxt.JS
 * Weekly 1: [Demo](https://m5-book-tracker.vercel.app/), [SRC](https://github.com/fortune-max/M5-book-tracker)
 * Weekly 2: [Demo](https://composables-demo.vercel.app/), [SRC](https://github.com/fortune-max/composables-demo/)
 * Final Project: [Demo](https://chat-websockets-demo.vercel.app/), [SRC](https://github.com/fortune-max/chat-websockets-demo)

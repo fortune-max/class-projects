@@ -20,6 +20,6 @@
 # M6 - Webtooling
 * Final: [Demo](https://web-tooling-015.vercel.app/), [SRC](https://github.com/fortune-max/web-tooling-015)
 
-# M7 - React 1
+# M7 - React I
 * Weekly 1: [Demo](https://wordle-three-pearl.vercel.app/), [SRC](https://github.com/fortune-max/wordle)
 * Weekly 2 & Final Project: [Demo](https://youtube-kappa-ten.vercel.app/), [SRC](https://github.com/fortune-max/youtube)
